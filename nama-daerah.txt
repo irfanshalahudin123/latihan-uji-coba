@@ -2,7 +2,9 @@ NAMA DAERAH DI KALTIM
 - Sangatta
   ^ sangatta utara
   ^ sangatta selatan
-- Penajam
+- Bontang 
+  ^ bontang utara
+  ^ bontang selatan
 - Samarinda
   ^ samarinda ulu
   ^ samarinda seberang
