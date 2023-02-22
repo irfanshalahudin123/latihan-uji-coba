@@ -6,4 +6,6 @@ NAMA DAERAH DI KALTIM
   ^ bontang utara
   ^ bontang selatan
 - Samarinda
-- Balikpapan
+  ^ samarinda ulu
+  ^ samarinda seberang
+- Tenggarong
