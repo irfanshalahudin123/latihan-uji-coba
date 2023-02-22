@@ -3,5 +3,7 @@ NAMA DAERAH DI KALTIM
   ^ sangatta utara
   ^ sangatta selatan
 - Bontang 
+  ^ bontang utara
+  ^ bontang selatan
 - Samarinda
 - Balikpapan
